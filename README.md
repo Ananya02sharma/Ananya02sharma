@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ananya Sharma</h1>
 <h3 align="center">A passionate frontend developer and programmer from Chandigarh ,India</h3>
 
-- 🌱 I’m currently learning **react JS**
+- 🌱 I’m currently learning **ML**
 
 - 💬 Ask me about **java, C++, React, Javascript, Html,css**
 
